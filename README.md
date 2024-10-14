@@ -1,6 +1,6 @@
 Hi,
 
-I'm currently still learning how to code (properly), mainly I code in JavaScript, but I'm also learning other languages
+I'm currently still learning how to code (properly), I mainly code in JavaScript, but I'm also learning other languages
 
 Prob C lover in the future
 
