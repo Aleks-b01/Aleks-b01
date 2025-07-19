@@ -1,8 +1,4 @@
-Hi,
-
-I'm currently still learning how to code (properly), I mainly code in JavaScript, but I'm also learning other languages
-
-Prob C lover in the future
+I'm a programmer or smth idk, anyways here's some useless stats
 
 [![Aleks' GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleks-b01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
